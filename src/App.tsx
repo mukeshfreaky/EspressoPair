@@ -110,7 +110,7 @@ export function App() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col justify-between bg-coffee-50 font-sans text-coffee-950">
+    <div className="min-h-screen flex flex-col justify-between bg-coffee-50 font-sans text-coffee-950 overflow-x-hidden">
       
       {/* Header */}
       <Header

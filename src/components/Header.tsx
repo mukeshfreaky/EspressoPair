@@ -52,10 +52,10 @@ export const Header: React.FC<HeaderProps> = ({
         </button>
 
         {/* Navigation */}
-        <nav className="flex items-center gap-1 sm:gap-2 shrink-0">
+        <nav className="flex items-center gap-0.5 sm:gap-2 shrink-0">
           <button
             onClick={onOpenCatalog}
-            className="text-xs sm:text-sm font-medium text-coffee-700 hover:text-coffee-950 px-2 sm:px-2.5 py-1.5 rounded hover:bg-coffee-100 transition-colors flex items-center gap-1"
+            className="text-xs sm:text-sm font-medium text-coffee-700 hover:text-coffee-950 px-1.5 sm:px-2.5 py-1.5 rounded hover:bg-coffee-100 transition-colors flex items-center gap-1"
           >
             <Layers className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-coffee-500" />
             <span><span className="hidden md:inline">Curated </span>Gear</span>
@@ -63,7 +63,7 @@ export const Header: React.FC<HeaderProps> = ({
           
           <button
             onClick={onOpenGuides}
-            className="text-xs sm:text-sm font-medium text-coffee-700 hover:text-coffee-950 px-2 sm:px-2.5 py-1.5 rounded hover:bg-coffee-100 transition-colors flex items-center gap-1"
+            className="text-xs sm:text-sm font-medium text-coffee-700 hover:text-coffee-950 px-1.5 sm:px-2.5 py-1.5 rounded hover:bg-coffee-100 transition-colors flex items-center gap-1"
           >
             <BookOpen className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-coffee-500" />
             <span><span className="hidden md:inline">Editorial </span>Guides</span>
@@ -71,7 +71,7 @@ export const Header: React.FC<HeaderProps> = ({
 
           <button
             onClick={onOpenHowItWorks}
-            className="text-xs sm:text-sm font-medium text-coffee-700 hover:text-coffee-950 px-2 sm:px-2.5 py-1.5 rounded hover:bg-coffee-100 transition-colors flex items-center gap-1"
+            className="text-xs sm:text-sm font-medium text-coffee-700 hover:text-coffee-950 px-1.5 sm:px-2.5 py-1.5 rounded hover:bg-coffee-100 transition-colors flex items-center gap-1"
           >
             <Info className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-coffee-500" />
             <span className="hidden sm:inline">How it Works</span>
