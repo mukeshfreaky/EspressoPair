@@ -1,0 +1,1018 @@
+{
+  "machines": [
+    {
+      "id": "flair-neo-flex",
+      "name": "Flair Neo Flex",
+      "brand": "Flair",
+      "price": 99,
+      "boiler_type": "manual_lever",
+      "warmup_minutes": 0,
+      "has_pid": false,
+      "opv_pressure_bar": 9,
+      "steam_capability": "none",
+      "portafilter_size_mm": 40,
+      "back_to_back_capacity": 1,
+      "footprint": "compact",
+      "dimensions_in": { "width": 7.0, "depth": 11.0, "height": 12.0 },
+      "workflow_complexity": 4,
+      "espresso_capability": 4,
+      "steam_power_score": 1,
+      "beginner_friendliness": 3,
+      "pros": [
+        "Accessible entry price ($99) for genuine 9-bar espresso",
+        "Includes both pressurized (for pre-ground) and non-pressurized baskets",
+        "Zero electrical parts to break or descale"
+      ],
+      "cons": [
+        "No steam wand (requires external milk frother for lattes)",
+        "Polycarbonate plastic frame flexes slightly under heavy lever pressure",
+        "Must boil water externally in a kettle"
+      ],
+      "best_for": ["Budget espresso purists", "Students", "Camping and travel"],
+      "not_for": ["Morning latte drinkers", "Anyone in a 3-minute morning rush"],
+      "my_take": "At $99, this is one of the most accessible ways to extract genuine 9-bar espresso at home. The polycarbonate frame flexes slightly compared to cast metal levers, but paired with a good hand grinder, it pulls espresso that easily outperforms $300 pressurized department-store appliances.",
+      "source_url": "https://flairespresso.com/product/neo-flex/",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "direct", "name": "Flair Espresso", "url": "https://flairespresso.com/product/neo-flex/", "in_stock": true },
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B0C3WGRM4N", "in_stock": true }
+      ]
+    },
+    {
+      "id": "de-longhi-dedica",
+      "name": "De'Longhi Dedica Deluxe",
+      "brand": "De'Longhi",
+      "price": 199,
+      "boiler_type": "thermoblock",
+      "warmup_minutes": 1,
+      "has_pid": false,
+      "opv_pressure_bar": 15,
+      "steam_capability": "slow_entry",
+      "portafilter_size_mm": 51,
+      "back_to_back_capacity": 1,
+      "footprint": "compact",
+      "dimensions_in": { "width": 5.9, "depth": 13.0, "height": 12.0 },
+      "workflow_complexity": 1,
+      "espresso_capability": 2,
+      "steam_power_score": 2,
+      "beginner_friendliness": 4,
+      "pros": [
+        "Ultra-narrow 6-inch footprint fits any cramped kitchen counter",
+        "Fast 40-second warmup from cold",
+        "Simple push-button operation"
+      ],
+      "cons": [
+        "Unregulated 15-bar pump tends to cause bitter over-extraction without unpressurized basket mod",
+        "Panarello steam wand creates chunky dish-soap foam unless modified",
+        "Lightweight body shifts when locking in the portafilter"
+      ],
+      "best_for": ["Tightest budgets under $250", "Tiny studio apartment kitchen counters"],
+      "not_for": ["Light-roast third-wave coffee", "Latte art enthusiasts"],
+      "my_take": "The absolute floor for an electric pump machine. It's under six inches wide, which solves cramped apartment problems. However, if your budget can stretch even $100 further to the Breville Bambino, you get a vastly superior regulated 9-bar OPV and proper microfoam steam wand.",
+      "source_url": "https://www.delonghi.com/en-us/dedica-deluxe-manual-espresso-machine/p/EC685M",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B06WGTZ874", "in_stock": true }
+      ]
+    },
+    {
+      "id": "breville-bambino",
+      "name": "Breville Bambino",
+      "brand": "Breville",
+      "price": 299,
+      "boiler_type": "thermojet",
+      "warmup_minutes": 1,
+      "has_pid": true,
+      "opv_pressure_bar": 9,
+      "steam_capability": "manual_decent",
+      "portafilter_size_mm": 54,
+      "back_to_back_capacity": 2,
+      "footprint": "compact",
+      "dimensions_in": { "width": 7.7, "depth": 12.6, "height": 12.2 },
+      "workflow_complexity": 2,
+      "espresso_capability": 3,
+      "steam_power_score": 3,
+      "beginner_friendliness": 5,
+      "pros": [
+        "3-second instant heat-up via Thermojet coil",
+        "Factory-calibrated 9-bar over-pressure valve (OPV) out of the box",
+        "Surprisingly capable manual steam wand for real latte art microfoam"
+      ],
+      "cons": [
+        "Lightweight construction requires holding the machine with one hand when inserting the portafilter",
+        "Proprietary 54mm portafilter basket size (less universal than commercial 58mm)",
+        "No 3-way solenoid valve (pucks can be wet/messy after pulling)"
+      ],
+      "best_for": ["First-time espresso buyers", "Small kitchens", "Quick morning lattes under $500 total setup"],
+      "not_for": ["People making 4+ lattes in a row for dinner guests", "Commercial durability purists"],
+      "my_take": "The benchmark budget recommendation on r/espresso for a reason. The 3-second heat-up means you aren't standing around bleary-eyed at 6:45 AM waiting 20 minutes for a boiler to stabilize. Put the money you save here straight into a better grinder.",
+      "source_url": "https://www.breville.com/us/en/products/espresso/bes450.html",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "seattle_coffee_gear", "name": "Seattle Coffee Gear", "url": "https://seattlecoffeegear.com/products/breville-bambino-espresso-machine", "in_stock": true },
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B0B1K6B6K4", "in_stock": true }
+      ]
+    },
+    {
+      "id": "breville-bambino-plus",
+      "name": "Breville Bambino Plus",
+      "brand": "Breville",
+      "price": 499,
+      "boiler_type": "thermojet",
+      "warmup_minutes": 1,
+      "has_pid": true,
+      "opv_pressure_bar": 9,
+      "steam_capability": "auto_microfoam",
+      "portafilter_size_mm": 54,
+      "back_to_back_capacity": 2,
+      "footprint": "compact",
+      "dimensions_in": { "width": 7.7, "depth": 12.6, "height": 12.2 },
+      "workflow_complexity": 1,
+      "espresso_capability": 3,
+      "steam_power_score": 4,
+      "beginner_friendliness": 5,
+      "pros": [
+        "Hands-free automated milk frothing with 3 temperature and 3 texture settings",
+        "Includes a 3-way solenoid valve for clean, dry, knockable coffee pucks",
+        "Instant 3-second ThermoJet warmup"
+      ],
+      "cons": [
+        "$200 price jump over base Bambino for essentially the same extraction boiler",
+        "Drip tray is notoriously tiny and fills fast from auto-wand purges"
+      ],
+      "best_for": ["Beginners terrified of steaming milk manually", "Morning rush flat whites with zero effort"],
+      "not_for": ["Espresso purists who never add milk (saves $200 with base Bambino)"],
+      "my_take": "The extra $200 over the base Bambino buys you hands-free automated milk texturing that genuinely works, plus a 3-way solenoid valve so your portafilter doesn't dump soupy sludge into the trash. If you want zero-friction morning flat whites, it's worth the upgrade.",
+      "source_url": "https://www.breville.com/us/en/products/espresso/bes500.html",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "seattle_coffee_gear", "name": "Seattle Coffee Gear", "url": "https://seattlecoffeegear.com/products/breville-bambino-plus-espresso-machine", "in_stock": true },
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B07JVD78TT", "in_stock": true }
+      ]
+    },
+    {
+      "id": "gaggia-classic-evo-pro",
+      "name": "Gaggia Classic Evo Pro",
+      "brand": "Gaggia",
+      "price": 449,
+      "boiler_type": "single_boiler",
+      "warmup_minutes": 12,
+      "has_pid": false,
+      "opv_pressure_bar": 9,
+      "steam_capability": "manual_decent",
+      "portafilter_size_mm": 58,
+      "back_to_back_capacity": 1,
+      "footprint": "compact",
+      "dimensions_in": { "width": 8.0, "depth": 9.5, "height": 14.2 },
+      "workflow_complexity": 3,
+      "espresso_capability": 3,
+      "steam_power_score": 3,
+      "beginner_friendliness": 2,
+      "pros": [
+        "Commercial standard 58mm chrome-plated brass portafilter",
+        "All-metal Italian chassis built to last 15+ years with spare parts readily available",
+        "Massive global modding community (PID kits, Gaggiuino, low-profile drip trays)"
+      ],
+      "cons": [
+        "No PID out of the box — requires temperature surfing for shot consistency",
+        "Small 0.1L boiler means you must wait 45-60 seconds between brewing and steaming",
+        "Takes 10-15 minutes to properly heat-soak the brass group"
+      ],
+      "best_for": ["Tinkerers and DIY hobbyists", "Buyers who want commercial 58mm accessories"],
+      "not_for": ["People who want out-of-the-box digital precision without learning temperature surfing"],
+      "my_take": "The quintessential tinkerer's machine. Built out of thick sheet metal in Milan. Out of the box, you have to 'temperature surf' because it uses bimetal thermostats. But if you enjoy mechanical hobbies or plan to install a PID kit later, this is an heirloom appliance.",
+      "source_url": "https://www.wholelattelove.com/products/gaggia-classic-pro",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B0C7JPH811", "in_stock": true }
+      ]
+    },
+    {
+      "id": "cafelat-robot",
+      "name": "Cafelat Robot Barista",
+      "brand": "Cafelat",
+      "price": 450,
+      "boiler_type": "manual_lever",
+      "warmup_minutes": 0,
+      "has_pid": false,
+      "opv_pressure_bar": 9,
+      "steam_capability": "none",
+      "portafilter_size_mm": 58,
+      "back_to_back_capacity": 1,
+      "footprint": "compact",
+      "dimensions_in": { "width": 8.5, "depth": 6.5, "height": 12.0 },
+      "workflow_complexity": 3,
+      "espresso_capability": 5,
+      "steam_power_score": 1,
+      "beginner_friendliness": 3,
+      "pros": [
+        "Zero electrical parts, zero descaling, zero warmup wait",
+        "Commercial 58mm deep basket pulls thick, velvety, high-extraction shots",
+        "Direct tactile feedback on pressure and flow via mechanical arms"
+      ],
+      "cons": [
+        "No milk steaming wand",
+        "Must pour boiling kettle water into the basket for each pull",
+        "Requires two hands pressing down with ~35 lbs of force"
+      ],
+      "best_for": ["Straight espresso purists", "Minimalists", "Off-grid / cabin coffee"],
+      "not_for": ["Milk drink lovers", "Anyone with wrist or shoulder injuries"],
+      "my_take": "A mechanical masterwork. If you have an electric kettle, your warmup time is zero. It extracts velvety, high-clarity espresso that competes with $3,000 rotary-pump Italian machines because you control pressure with your own muscles. It will outlive everyone reading this.",
+      "source_url": "https://www.cafelatstore.com/products/robot-espresso-maker",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "direct", "name": "Cafelat Store", "url": "https://www.cafelatstore.com/products/robot-espresso-maker", "in_stock": true },
+        { "retailer_id": "prima_coffee", "name": "Prima Coffee", "url": "https://prima-coffee.com/equipment/cafelat/robot-cafel-sp", "in_stock": true }
+      ]
+    },
+    {
+      "id": "flair-58",
+      "name": "Flair 58",
+      "brand": "Flair",
+      "price": 580,
+      "boiler_type": "manual_lever",
+      "warmup_minutes": 5,
+      "has_pid": true,
+      "opv_pressure_bar": 9,
+      "steam_capability": "none",
+      "portafilter_size_mm": 58,
+      "back_to_back_capacity": 1,
+      "footprint": "medium",
+      "dimensions_in": { "width": 7.5, "depth": 14.0, "height": 14.0 },
+      "workflow_complexity": 4,
+      "espresso_capability": 5,
+      "steam_power_score": 1,
+      "beginner_friendliness": 2,
+      "pros": [
+        "Electrically pre-heated brew head with 3 temperature settings",
+        "Industry-standard 58mm portafilter fits all commercial precision baskets",
+        "Allows real-time pressure profiling (e.g. 15-second gentle bloom, ramp to 8 bar, taper to 5 bar)"
+      ],
+      "cons": [
+        "Zero milk steaming capability",
+        "Requires external kettle and multiple prep steps per shot",
+        "Long lever arm requires vertical clearance"
+      ],
+      "best_for": ["Light roast enthusiasts", "Flow-profiling on a budget", "Straight espresso purists"],
+      "not_for": ["Daily cappuccino drinkers", "People who want one-touch coffee"],
+      "my_take": "If your primary beverage is straight espresso from delicate, light-roasted single-origin beans, the Flair 58 is one of the strongest options available. Manual pressure control lets you execute 15-second soft pre-infusions that help balance bright, acidic light roasts.",
+      "source_url": "https://flairespresso.com/product/flair-58/",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "direct", "name": "Flair Espresso", "url": "https://flairespresso.com/product/flair-58/", "in_stock": true },
+        { "retailer_id": "prima_coffee", "name": "Prima Coffee", "url": "https://prima-coffee.com/equipment/flair/flair-58", "in_stock": true }
+      ]
+    },
+    {
+      "id": "rancilio-silvia",
+      "name": "Rancilio Silvia (M)",
+      "brand": "Rancilio",
+      "price": 900,
+      "boiler_type": "single_boiler",
+      "warmup_minutes": 20,
+      "has_pid": false,
+      "opv_pressure_bar": 9,
+      "steam_capability": "commercial_strong",
+      "portafilter_size_mm": 58,
+      "back_to_back_capacity": 2,
+      "footprint": "medium",
+      "dimensions_in": { "width": 9.2, "depth": 11.4, "height": 13.4 },
+      "workflow_complexity": 3,
+      "espresso_capability": 3,
+      "steam_power_score": 4,
+      "beginner_friendliness": 2,
+      "pros": [
+        "Massive commercial-grade steam power from its 0.3L marine-grade brass boiler",
+        "Legendary industrial longevity (often running 20+ years with basic maintenance)",
+        "Commercial 58mm ergonomics and heavy grouphead"
+      ],
+      "cons": [
+        "No PID at $900 price point (requires temperature surfing)",
+        "Takes 20 minutes to heat-soak the heavy brass grouphead",
+        "Single boiler wait required to switch to steam temperature"
+      ],
+      "best_for": ["Traditional medium/dark roast espresso drinkers who want serious steam power on a single boiler"],
+      "not_for": ["Modern light roast espresso without aftermarket PID", "Quick 5-minute mornings"],
+      "my_take": "An industrial kitchen staple since 1998. The steam power for a single boiler is ferocious. But at $900 in 2026, the lack of a factory digital PID controller hurts when the Profitec GO exists for $200 more with an OLED screen and externally adjustable OPV.",
+      "source_url": "https://seattlecoffeegear.com/products/rancilio-silvia-espresso-machine",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "seattle_coffee_gear", "name": "Seattle Coffee Gear", "url": "https://seattlecoffeegear.com/products/rancilio-silvia-espresso-machine", "in_stock": true },
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B000ND3GQY", "in_stock": true }
+      ]
+    },
+    {
+      "id": "profitec-go",
+      "name": "Profitec GO",
+      "brand": "Profitec",
+      "price": 1099,
+      "boiler_type": "single_boiler",
+      "warmup_minutes": 8,
+      "has_pid": true,
+      "opv_pressure_bar": 9,
+      "steam_capability": "manual_decent",
+      "portafilter_size_mm": 58,
+      "back_to_back_capacity": 2,
+      "footprint": "compact",
+      "dimensions_in": { "width": 8.3, "depth": 14.2, "height": 15.0 },
+      "workflow_complexity": 2,
+      "espresso_capability": 4,
+      "steam_power_score": 3,
+      "beginner_friendliness": 4,
+      "pros": [
+        "External OLED PID display with integrated shot timer and eco mode",
+        "Externally accessible over-pressure valve screw on top panel (no opening the case)",
+        "Fast 7-8 minute warmup via 'Fast Heat-Up' programming mode"
+      ],
+      "cons": [
+        "Single boiler still requires a ~60-second transition to climb to steam temperature",
+        "Must purge cooling water after steaming before pulling the next shot"
+      ],
+      "best_for": ["1-2 drinks per morning", "Espresso purists who value precise temperature and build quality"],
+      "not_for": ["Hosting dinner parties making 4+ lattes in a row"],
+      "my_take": "One of the most capable single-boiler machines under $1,200. Built by ECM/Profitec in Germany. It includes an external PID, integrated shot timer, and an easily accessible OPV screw so you never need to crack open the case. For 1-2 daily drinks, it offers a very clean and dependable workflow.",
+      "source_url": "https://clivecoffee.com/products/profitec-go-espresso-machine",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "clive_coffee", "name": "Clive Coffee", "url": "https://clivecoffee.com/products/profitec-go-espresso-machine", "in_stock": true },
+        { "retailer_id": "whole_latte_love", "name": "Whole Latte Love", "url": "https://www.wholelattelove.com/products/profitec-go-single-boiler-espresso-machine", "in_stock": true }
+      ]
+    },
+    {
+      "id": "breville-dual-boiler",
+      "name": "Breville Dual Boiler",
+      "brand": "Breville",
+      "price": 1599,
+      "boiler_type": "dual_boiler",
+      "warmup_minutes": 7,
+      "has_pid": true,
+      "opv_pressure_bar": 9,
+      "steam_capability": "commercial_strong",
+      "portafilter_size_mm": 58,
+      "back_to_back_capacity": 4,
+      "footprint": "large",
+      "dimensions_in": { "width": 14.7, "depth": 14.8, "height": 14.7 },
+      "workflow_complexity": 2,
+      "espresso_capability": 5,
+      "steam_power_score": 5,
+      "beginner_friendliness": 4,
+      "pros": [
+        "Simultaneous brewing and steaming with dual independent dedicated boilers",
+        "Actively heated commercial 58mm grouphead with +/- 1°F temperature stability",
+        "Easily modified water tube routing ('Slayer mod') enables manual needle-valve flow profiling"
+      ],
+      "cons": [
+        "Appliance-style brushed steel aesthetic rather than handcrafted Italian chrome",
+        "Requires careful water recipe use to protect internal O-rings and sensors",
+        "Large counter footprint"
+      ],
+      "best_for": ["Milk drink households", "Espresso purists who care about cup taste over Italian chrome"],
+      "not_for": ["Kitchens looking for heirloom polished brass/copper displays"],
+      "my_take": "The enthusiast giant killer. It looks like a standard kitchen appliance, but underneath it has dual PIDs, an actively heated grouphead, programmable pre-infusion, and simultaneous commercial steaming that challenges far more expensive machines. If temperature stability and steaming speed are your metrics, it punches well above its price class.",
+      "source_url": "https://www.breville.com/us/en/products/espresso/bes920.html",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B00I6JGGP0", "in_stock": true },
+        { "retailer_id": "seattle_coffee_gear", "name": "Seattle Coffee Gear", "url": "https://seattlecoffeegear.com/products/breville-dual-boiler-espresso-machine", "in_stock": true }
+      ]
+    },
+    {
+      "id": "lelit-mara-x",
+      "name": "Lelit Mara X (V2)",
+      "brand": "Lelit",
+      "price": 1699,
+      "boiler_type": "heat_exchanger",
+      "warmup_minutes": 22,
+      "has_pid": true,
+      "opv_pressure_bar": 9,
+      "steam_capability": "commercial_strong",
+      "portafilter_size_mm": 58,
+      "back_to_back_capacity": 3,
+      "footprint": "compact",
+      "dimensions_in": { "width": 8.7, "depth": 16.0, "height": 14.0 },
+      "workflow_complexity": 2,
+      "espresso_capability": 4,
+      "steam_power_score": 4,
+      "beginner_friendliness": 4,
+      "pros": [
+        "Patented brew-temperature priority PID substantially reduces the need for cooling flushes",
+        "Most compact full E61 group machine on the market (under 9 inches wide)",
+        "Whisper-quiet vibration pump dampening"
+      ],
+      "cons": [
+        "Standard 20-22 minute E61 grouphead heat-soak warmup time",
+        "Boiler priority mode steam is slightly gentler than dedicated 2L dual boilers"
+      ],
+      "best_for": ["Compact kitchens wanting an Italian E61 lever group and simultaneous milk steaming"],
+      "not_for": ["Instant 5-minute morning warmups"],
+      "my_take": "Lelit solved the biggest headache of traditional heat-exchanger machines: unpredictable brew temperatures. Its dual-sensor PID monitors the actual water going to the grouphead rather than steam boiler pressure. No cooling flush ritual needed before every shot.",
+      "source_url": "https://clivecoffee.com/products/lelit-mara-x-espresso-machine",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "clive_coffee", "name": "Clive Coffee", "url": "https://clivecoffee.com/products/lelit-mara-x-espresso-machine", "in_stock": true }
+      ]
+    },
+    {
+      "id": "ascaso-steel-duo-pid",
+      "name": "Ascaso Steel DUO PID",
+      "brand": "Ascaso",
+      "price": 1775,
+      "boiler_type": "dual_thermoblock",
+      "warmup_minutes": 2,
+      "has_pid": true,
+      "opv_pressure_bar": 9,
+      "steam_capability": "commercial_strong",
+      "portafilter_size_mm": 58,
+      "back_to_back_capacity": 4,
+      "footprint": "medium",
+      "dimensions_in": { "width": 10.6, "depth": 12.4, "height": 14.2 },
+      "workflow_complexity": 2,
+      "espresso_capability": 4,
+      "steam_power_score": 4,
+      "beginner_friendliness": 5,
+      "pros": [
+        "Ready in 2-3 minutes with dual independent stainless-lined thermal blocks",
+        "Simultaneous continuous steam with dedicated steam thermoblock",
+        "Modern industrial bar design with cool LED barista lights"
+      ],
+      "cons": [
+        "Steam pulse rhythm takes getting used to compared to open boiler pressure",
+        "Requires dedicated 15A or 20A circuit for peak dual-block heating"
+      ],
+      "best_for": ["Fast-paced households wanting dual-boiler speed without 25-minute warmup waits", "Energy efficiency"],
+      "not_for": ["Traditional boiler purists"],
+      "my_take": "The modern answer to the dual boiler. Two independent high-mass thermoblocks mean you can pull a shot and steam milk simultaneously within two minutes of hitting the power button. For busy mornings and modern kitchens, it avoids the 25-minute warmup wait of traditional boilers.",
+      "source_url": "https://ascaso-usa.com/products/steel-duo-pid-espresso-machine",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "direct", "name": "Ascaso USA", "url": "https://ascaso-usa.com/products/steel-duo-pid-espresso-machine", "in_stock": true }
+      ]
+    },
+    {
+      "id": "profitec-pro-400",
+      "name": "Profitec Pro 400",
+      "brand": "Profitec",
+      "price": 1699,
+      "boiler_type": "heat_exchanger",
+      "warmup_minutes": 22,
+      "has_pid": false,
+      "opv_pressure_bar": 9,
+      "steam_capability": "commercial_strong",
+      "portafilter_size_mm": 58,
+      "back_to_back_capacity": 4,
+      "footprint": "medium",
+      "dimensions_in": { "width": 9.0, "depth": 17.6, "height": 14.6 },
+      "workflow_complexity": 2,
+      "espresso_capability": 3,
+      "steam_power_score": 5,
+      "beginner_friendliness": 3,
+      "pros": [
+        "German tank-like build quality with customizable colored valve accent discs",
+        "Ferocious, dry steam power from 1.6L insulated stainless steel boiler",
+        "Three-way rocker switch on bottom panel adjusts boiler temperature"
+      ],
+      "cons": [
+        "Heat-exchanger design requires temperature management for light roasts",
+        "22-minute E61 grouphead warmup"
+      ],
+      "best_for": ["Milk drink lovers who want commercial steam and German longevity"],
+      "not_for": ["Light-roast straight espresso purists"],
+      "my_take": "If milk drinks are your primary joy and you want tank-like German engineering, the Pro 400 delivers huge steaming power. You can steam milk in seconds while pulling a shot. For delicate light-roast espresso, pick the Profitec GO or Dual Boiler instead.",
+      "source_url": "https://clivecoffee.com/products/profitec-pro-400-espresso-machine",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "clive_coffee", "name": "Clive Coffee", "url": "https://clivecoffee.com/products/profitec-pro-400-espresso-machine", "in_stock": true }
+      ]
+    },
+    {
+      "id": "rancilio-silvia-pro-x",
+      "name": "Rancilio Silvia Pro X",
+      "brand": "Rancilio",
+      "price": 1990,
+      "boiler_type": "dual_boiler",
+      "warmup_minutes": 14,
+      "has_pid": true,
+      "opv_pressure_bar": 9,
+      "steam_capability": "commercial_strong",
+      "portafilter_size_mm": 58,
+      "back_to_back_capacity": 4,
+      "footprint": "medium",
+      "dimensions_in": { "width": 9.8, "depth": 15.3, "height": 15.3 },
+      "workflow_complexity": 2,
+      "espresso_capability": 4,
+      "steam_power_score": 5,
+      "beginner_friendliness": 4,
+      "pros": [
+        "Dual independent boilers with dual PIDs and soft pre-infusion chamber",
+        "Commercial cafe-grade steam pressure that textures 8oz milk in 10 seconds",
+        "Industrial stainless chassis built for decades of abuse"
+      ],
+      "cons": [
+        "Utilitarian, boxy aesthetics lack decorative Italian flourishes",
+        "Pressure gauge is small and tucked near the bottom corner"
+      ],
+      "best_for": ["Home baristas who want industrial durability, dual boiler speed, and commercial steam without E61 maintenance"],
+      "not_for": ["Decorative boutique kitchen counters"],
+      "my_take": "Takes everything people loved about the indestructible Silvia and adds a dedicated 1-liter steam boiler, dual digital PIDs, and soft low-pressure pre-infusion. It's boxy and utilitarian, but it will make four morning lattes every single day for the next 15 years without breaking a sweat.",
+      "source_url": "https://clivecoffee.com/products/rancilio-silvia-pro-x-espresso-machine",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "clive_coffee", "name": "Clive Coffee", "url": "https://clivecoffee.com/products/rancilio-silvia-pro-x-espresso-machine", "in_stock": true }
+      ]
+    },
+    {
+      "id": "lelit-bianca-v3",
+      "name": "Lelit Bianca V3",
+      "brand": "Lelit",
+      "price": 3199,
+      "boiler_type": "dual_boiler",
+      "warmup_minutes": 22,
+      "has_pid": true,
+      "opv_pressure_bar": 9,
+      "steam_capability": "commercial_strong",
+      "portafilter_size_mm": 58,
+      "back_to_back_capacity": 4,
+      "footprint": "large",
+      "dimensions_in": { "width": 11.4, "depth": 19.1, "height": 15.7 },
+      "workflow_complexity": 4,
+      "espresso_capability": 5,
+      "steam_power_score": 5,
+      "beginner_friendliness": 3,
+      "pros": [
+        "Wooden flow control paddle on E61 grouphead allows live manual pressure profiling",
+        "Quiet commercial rotary pump can run on reservoir or direct water line plumb-in",
+        "Repositionable external water reservoir fits odd counter corners"
+      ],
+      "cons": [
+        "$3,200 investment requires serious espresso commitment",
+        "22-minute E61 grouphead warmup (mitigated by fast warmup software mode)"
+      ],
+      "best_for": ["Endgame espresso enthusiasts wanting flow profiling and Italian craftsmanship"],
+      "not_for": ["Beginners who want simple push-button operation"],
+      "my_take": "The pinnacle prosumer machine for the experimental home barista. The wooden paddle on top lets you manually adjust water flow mid-shot. You can rescue fast extractions, pull 45-second blooming shots on Nordic light roasts, or emulate classic spring-lever pressure profiles.",
+      "source_url": "https://clivecoffee.com/products/lelit-bianca-v3-dual-boiler-espresso-machine",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "clive_coffee", "name": "Clive Coffee", "url": "https://clivecoffee.com/products/lelit-bianca-v3-dual-boiler-espresso-machine", "in_stock": true }
+      ]
+    }
+  ],
+  "grinders": [
+    {
+      "id": "kingrinder-k6",
+      "name": "Kingrinder K6",
+      "brand": "Kingrinder",
+      "price": 99,
+      "type": "manual_hand",
+      "burr_type": "conical",
+      "burr_size_mm": 48,
+      "is_stepless": false,
+      "retention_grams": 0.1,
+      "retention_level": "near_zero",
+      "footprint": "compact",
+      "workflow_complexity": 3,
+      "espresso_capability": 4,
+      "bean_switching_friendliness": 5,
+      "noise_level": "quiet",
+      "best_roast_alignment": ["light", "medium", "dark"],
+      "pros": [
+        "External 16µm click adjustment ring makes dialling in simple and repeatable",
+        "48mm heptagonal steel burr delivers exceptional grind consistency for under $100",
+        "Nearly zero retention with zero counter footprint"
+      ],
+      "cons": [
+        "Manual hand cranking takes 35-45 seconds per 18g espresso dose",
+        "Not ideal for entertaining guests or making multiple drinks in a row"
+      ],
+      "best_for": ["Budget espresso under $500 total setup", "Single-drink morning routines", "Quiet grinding"],
+      "not_for": ["Household with multiple coffee drinkers", "People with wrist arthritis"],
+      "my_take": "A standout value in manual grinding. Because your budget goes into precision CNC-machined 48mm steel burrs rather than an electric motor and chassis, its particle consistency rivals many electric grinders under $400. If you don't mind 35–45 seconds of physical hand cranking per shot, it offers exceptional value.",
+      "source_url": "https://www.kingrinder.com/blog/k6-review",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B09WH94XGY", "in_stock": true }
+      ]
+    },
+    {
+      "id": "1zpresso-j-ultra",
+      "name": "1Zpresso J-Ultra",
+      "brand": "1Zpresso",
+      "price": 199,
+      "type": "manual_hand",
+      "burr_type": "conical",
+      "burr_size_mm": 48,
+      "is_stepless": false,
+      "retention_grams": 0.1,
+      "retention_level": "near_zero",
+      "footprint": "compact",
+      "workflow_complexity": 3,
+      "espresso_capability": 5,
+      "bean_switching_friendliness": 5,
+      "noise_level": "quiet",
+      "best_roast_alignment": ["medium", "dark"],
+      "pros": [
+        "Ultra-fine 8-micron adjustment per click gives surgical dial-in control",
+        "Titanium-coated 48mm burrs grind through dark and medium roasts in 25 seconds",
+        "Magnetic catch cup snaps cleanly onto 58mm portafilters"
+      ],
+      "cons": [
+        "Manual hand cranking",
+        "Produces traditional high-body profile that slightly mutes delicate light roasts"
+      ],
+      "best_for": ["Precision espresso dial-in enthusiasts", "Travel and small counters"],
+      "not_for": ["Multiple back-to-back drinks", "Light roast filter coffee crossovers"],
+      "my_take": "The gold standard of manual espresso grinding. With 8 microns of movement per click, you can micro-adjust extraction times by single seconds. The magnetic catch cup matches 58mm commercial portafilters perfectly.",
+      "source_url": "https://1zpresso.coffee/j-ultra/",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B0CJ5J683W", "in_stock": true }
+      ]
+    },
+    {
+      "id": "baratza-encore-esp",
+      "name": "Baratza Encore ESP",
+      "brand": "Baratza",
+      "price": 199,
+      "type": "electric_hopper",
+      "burr_type": "conical",
+      "burr_size_mm": 40,
+      "is_stepless": false,
+      "retention_grams": 1.0,
+      "retention_level": "low",
+      "footprint": "compact",
+      "workflow_complexity": 2,
+      "espresso_capability": 3,
+      "bean_switching_friendliness": 3,
+      "noise_level": "loud",
+      "best_roast_alignment": ["medium", "dark"],
+      "pros": [
+        "Dual-range adjustment: steps 1-20 are micro-stepped specifically for espresso",
+        "Baratza's legendary customer support and cheap replacement parts",
+        "Can easily switch back and forth to coarse French press / drip grinding"
+      ],
+      "cons": [
+        "Loud gear-reduction motor sound during grinding",
+        "Stepped adjustments mean you sometimes land between two grind settings",
+        "Lightweight plastic hopper and body"
+      ],
+      "best_for": ["Beginners wanting one electric grinder for both espresso and drip coffee"],
+      "not_for": ["Ultra-finicky light-roast espresso", "Whisper-quiet early mornings"],
+      "my_take": "Baratza took the most popular entry coffee grinder in history and re-engineered the lower 20 steps for genuine 9-bar espresso. It's loud and plastic, but Baratza will sell you cheap replacement parts 10 years from now. A dependable entry-level workhorse.",
+      "source_url": "https://www.baratza.com/en-us/product/encore-esp-zcg495",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "seattle_coffee_gear", "name": "Seattle Coffee Gear", "url": "https://seattlecoffeegear.com/products/baratza-encore-esp-coffee-grinder", "in_stock": true },
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B0BTJFF97T", "in_stock": true }
+      ]
+    },
+    {
+      "id": "fellow-opus",
+      "name": "Fellow Opus",
+      "brand": "Fellow",
+      "price": 195,
+      "type": "electric_single_dose",
+      "burr_type": "conical",
+      "burr_size_mm": 40,
+      "is_stepless": false,
+      "retention_grams": 0.8,
+      "retention_level": "low",
+      "footprint": "compact",
+      "workflow_complexity": 3,
+      "espresso_capability": 3,
+      "bean_switching_friendliness": 4,
+      "noise_level": "moderate",
+      "best_roast_alignment": ["medium", "dark"],
+      "pros": [
+        "Gorgeous minimalist Fellow design aesthetic",
+        "Volumetric dosing lid and timed auto-shutoff",
+        "Quiet and compact footprint"
+      ],
+      "cons": [
+        "Convoluted micro-adjustment ring hidden underneath the outer ring",
+        "Static retention can require tapping the lid"
+      ],
+      "best_for": ["Design-conscious kitchens", "All-round pour-over and espresso drinkers"],
+      "not_for": ["People who hate mental math when fine-tuning espresso grind settings"],
+      "my_take": "A very sleek single-dose conical grinder. It looks beautiful on a modern countertop and grinds relatively quietly. The inner micro-step adjustment system requires a little mental math chart, but once dialled in, it produces rich, balanced medium-dark roast shots.",
+      "source_url": "https://fellowproducts.com/products/opus-coffee-grinder",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "seattle_coffee_gear", "name": "Seattle Coffee Gear", "url": "https://seattlecoffeegear.com/products/fellow-opus-conical-burr-grinder", "in_stock": true },
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B0BSLCFF76", "in_stock": true }
+      ]
+    },
+    {
+      "id": "turin-df54",
+      "name": "Turin DF54",
+      "brand": "Turin / MiiCoffee",
+      "price": 229,
+      "type": "electric_single_dose",
+      "burr_type": "flat",
+      "burr_size_mm": 54,
+      "is_stepless": true,
+      "retention_grams": 0.1,
+      "retention_level": "near_zero",
+      "footprint": "compact",
+      "workflow_complexity": 2,
+      "espresso_capability": 4,
+      "bean_switching_friendliness": 5,
+      "noise_level": "moderate",
+      "best_roast_alignment": ["light", "medium", "dark"],
+      "pros": [
+        "54mm custom flat burrs bring high-clarity flavor profile to sub-$250 price bracket",
+        "Integrated plasma ionizer significantly reduces static cling and spray",
+        "Stepless micrometric dial with bellows for true near-zero retention (<0.1g)"
+      ],
+      "cons": [
+        "High-demand availability often requires pre-orders or backorder wait",
+        "54mm burr size has fewer aftermarket upgrade options than 64mm"
+      ],
+      "best_for": ["The modern budget sweet spot", "Light and medium roast espresso lovers under $300"],
+      "not_for": ["People who want a hopper full of beans ready to grind on demand"],
+      "my_take": "One of the most competitive single-dose grinders to enter the market recently. It brings stepless flat burrs, an anti-static plasma generator, and near-zero retention into the sub-$250 price bracket, offering features previously found only on higher-priced grinders.",
+      "source_url": "https://www.espressooutlet.net/turin-df54-single-dose-grinder/",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "espresso_outlet", "name": "Espresso Outlet", "url": "https://www.espressooutlet.net/turin-df54-single-dose-grinder/", "in_stock": true },
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B0CZF3H82G", "in_stock": true }
+      ]
+    },
+    {
+      "id": "eureka-mignon-manuale",
+      "name": "Eureka Mignon Manuale",
+      "brand": "Eureka",
+      "price": 279,
+      "type": "electric_hopper",
+      "burr_type": "flat",
+      "burr_size_mm": 50,
+      "is_stepless": true,
+      "retention_grams": 1.5,
+      "retention_level": "moderate",
+      "footprint": "compact",
+      "workflow_complexity": 2,
+      "espresso_capability": 4,
+      "bean_switching_friendliness": 2,
+      "noise_level": "quiet",
+      "best_roast_alignment": ["medium", "dark"],
+      "pros": [
+        "Italian commercial-heritage 50mm hardened steel flat burrs",
+        "Patented micrometric stepless dial retains grind setting during burr cleaning",
+        "Compact all-metal Florentine body"
+      ],
+      "cons": [
+        "Small adjustment knob requires tiny finger adjustments when dialling in",
+        "Traditional hopper retains 1-2 grams of coffee if not modified with bellows"
+      ],
+      "best_for": ["Traditional Italian espresso lovers", "Hopper on-demand grinding on a budget"],
+      "not_for": ["Frequent bean switchers", "People wanting single-dosing out of the box"],
+      "my_take": "Handmade in Florence, Italy. The Manuale is Eureka's stripped-down, purely mechanical hopper grinder. If you stick with the same medium/dark roast beans for weeks at a time, its stepless micrometric dial is rock solid.",
+      "source_url": "https://www.eureka.co.it/en/catalogo/prodotti/macinacaffe+istantaneo/1/20.aspx",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "clive_coffee", "name": "Clive Coffee", "url": "https://clivecoffee.com/products/eureka-mignon-manuale-espresso-grinder", "in_stock": true }
+      ]
+    },
+    {
+      "id": "turin-df64-gen2",
+      "name": "Turin DF64 Gen 2",
+      "brand": "Turin / MiiCoffee",
+      "price": 399,
+      "type": "electric_single_dose",
+      "burr_type": "flat",
+      "burr_size_mm": 64,
+      "is_stepless": true,
+      "retention_grams": 0.1,
+      "retention_level": "near_zero",
+      "footprint": "medium",
+      "workflow_complexity": 2,
+      "espresso_capability": 5,
+      "bean_switching_friendliness": 5,
+      "noise_level": "moderate",
+      "best_roast_alignment": ["light", "medium", "dark"],
+      "pros": [
+        "Industry-standard 64mm flat burr carrier accepts high-end SSP aftermarket burrs",
+        "Gen 2 upgrades: anti-static plasma generator, aluminum dosing cup, power button on side",
+        "Near-zero retention (<0.1g) makes switching beans seamless"
+      ],
+      "cons": [
+        "Utilitarian, industrial aesthetic rather than boutique luxury",
+        "Bellows required for that final 0.1g purge"
+      ],
+      "best_for": ["Enthusiasts wanting an upgradeable 64mm platform", "Light roast espresso clarity"],
+      "not_for": ["Hands-off automated hopper dosing"],
+      "my_take": "The enthusiast's default flat burr grinder. The Gen 2 addressed every quirk of the original version. Most importantly, it uses standard 64mm burrs, meaning you can later drop in $185 SSP Cast or High-Uniformity burrs if you ever want to push extraction clarity even higher.",
+      "source_url": "https://www.espressooutlet.net/turin-df64-gen-2-single-dose-coffee-grinder/",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "espresso_outlet", "name": "Espresso Outlet", "url": "https://www.espressooutlet.net/turin-df64-gen-2-single-dose-coffee-grinder/", "in_stock": true },
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B0CHZ3MGBG", "in_stock": true }
+      ]
+    },
+    {
+      "id": "eureka-mignon-silenzio",
+      "name": "Eureka Mignon Silenzio",
+      "brand": "Eureka",
+      "price": 479,
+      "type": "electric_hopper",
+      "burr_type": "flat",
+      "burr_size_mm": 50,
+      "is_stepless": true,
+      "retention_grams": 1.5,
+      "retention_level": "moderate",
+      "footprint": "compact",
+      "workflow_complexity": 2,
+      "espresso_capability": 4,
+      "bean_switching_friendliness": 2,
+      "noise_level": "quiet",
+      "best_roast_alignment": ["medium", "dark"],
+      "pros": [
+        "Thick sound-insulated metal casing makes it one of the quietest electric grinders made",
+        "Timed dosing dial on the side for push-and-grind workflow",
+        "Stunning Florentine build and heavy footprint"
+      ],
+      "cons": [
+        "Analog timer dial on the side is somewhat imprecise compared to digital screens",
+        "Traditional hopper retention"
+      ],
+      "best_for": ["Quiet early mornings in small apartments with sleeping partners or babies"],
+      "not_for": ["Single dosing multiple different coffees daily"],
+      "my_take": "Lives up to its Italian name ('Silence'). Eureka wrapped the motor in sound-dampening insulation so you can grind fresh espresso at 6:00 AM without waking up anyone in the next room. If low noise and Italian build are your priorities, this is the answer.",
+      "source_url": "https://clivecoffee.com/products/eureka-mignon-silenzio-espresso-grinder",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "clive_coffee", "name": "Clive Coffee", "url": "https://clivecoffee.com/products/eureka-mignon-silenzio-espresso-grinder", "in_stock": true }
+      ]
+    },
+    {
+      "id": "timemore-sculptor-064s",
+      "name": "Timemore Sculptor 064S",
+      "brand": "Timemore",
+      "price": 499,
+      "type": "electric_single_dose",
+      "burr_type": "flat",
+      "burr_size_mm": 64,
+      "is_stepless": true,
+      "retention_grams": 0.1,
+      "retention_level": "near_zero",
+      "footprint": "compact",
+      "workflow_complexity": 2,
+      "espresso_capability": 5,
+      "bean_switching_friendliness": 5,
+      "noise_level": "quiet",
+      "best_roast_alignment": ["light", "medium"],
+      "pros": [
+        "Rotary fines knocker on exit chute knocks remaining chaff clean without rubber bellows",
+        "Variable brushless motor RPM control (800 - 1200 RPM)",
+        "Whisper-quiet motor and sleek magnetic hopper lid"
+      ],
+      "cons": [
+        "Burr alignment can vary slightly out of factory box",
+        "Relatively new brand in domestic electric prosumer space"
+      ],
+      "best_for": ["Light roast espresso clarity", "Modern clean workflows without ugly bellows"],
+      "not_for": ["High-body Italian dark roast traditionalists"],
+      "my_take": "The design darling. Instead of using an ugly rubber accordion bellows to puff out retained coffee grounds, Timemore built an internal rotary fines knocker you twist to clear the chute. The variable RPM motor lets you slow down burr speed to reduce fines on fruity light roasts.",
+      "source_url": "https://www.timemore.com/collections/coffee-grinder/products/timemore-sculptor-electric-coffee-grinder",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "direct", "name": "Timemore Official", "url": "https://www.timemore.com/products/timemore-sculptor-electric-coffee-grinder", "in_stock": true },
+        { "retailer_id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/dp/B0D4V5RKG7", "in_stock": true }
+      ]
+    },
+    {
+      "id": "niche-zero",
+      "name": "Niche Zero",
+      "brand": "Niche",
+      "price": 599,
+      "type": "electric_single_dose",
+      "burr_type": "conical",
+      "burr_size_mm": 63,
+      "is_stepless": true,
+      "retention_grams": 0.1,
+      "retention_level": "near_zero",
+      "footprint": "compact",
+      "workflow_complexity": 1,
+      "espresso_capability": 4,
+      "bean_switching_friendliness": 5,
+      "noise_level": "quiet",
+      "best_roast_alignment": ["medium", "dark"],
+      "pros": [
+        "Legendary zero-fuss workflow: dump 18g in, flip switch, get 18g out",
+        "Massive 63mm Mazzer Kony commercial conical burr set",
+        "Rich, chocolatey, traditional syrupy espresso body that cuts through milk"
+      ],
+      "cons": [
+        "Imported directly from UK (shipping/taxes depending on region)",
+        "Conical burr bimodal distribution mutes the high acidity of delicate light roasts"
+      ],
+      "best_for": ["Medium and dark roast espresso", "Straightforward single-dose workflow", "Creamy milk drinks"],
+      "not_for": ["Ultra-high clarity light roast Nordic coffee geeks (get flat burrs instead)"],
+      "my_take": "The grinder that sparked the single-dosing revolution. It has near-zero retention without needing bellows. The 63mm Mazzer conical burrs produce rich, chocolatey, velvety body that blends beautifully into lattes and flat whites.",
+      "source_url": "https://www.nichecoffee.co.uk/products/niche-zero",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "direct", "name": "Niche Coffee Direct", "url": "https://www.nichecoffee.co.uk/products/niche-zero", "in_stock": true }
+      ]
+    },
+    {
+      "id": "eureka-mignon-specialita",
+      "name": "Eureka Mignon Specialita",
+      "brand": "Eureka",
+      "price": 649,
+      "type": "electric_hopper",
+      "burr_type": "flat",
+      "burr_size_mm": 55,
+      "is_stepless": true,
+      "retention_grams": 1.5,
+      "retention_level": "moderate",
+      "footprint": "compact",
+      "workflow_complexity": 1,
+      "espresso_capability": 4,
+      "bean_switching_friendliness": 2,
+      "noise_level": "quiet",
+      "best_roast_alignment": ["medium", "dark"],
+      "pros": [
+        "Crisp digital white-on-black touchscreen with single and double shot timers (0.1s precision)",
+        "Larger 55mm hardened steel flat burrs grind an 18g double shot in ~9 seconds",
+        "Silent grind technology keeps morning kitchen quiet"
+      ],
+      "cons": [
+        "Hopper retention makes it clunky if you want to switch bean varieties every morning",
+        "Stepless knob is sensitive to small fractional turns"
+      ],
+      "best_for": ["Daily hopper-based timed dosing workflow", "Families wanting push-button convenience"],
+      "not_for": ["Single-dosing enthusiasts weighing every single dose"],
+      "my_take": "If you hate weighing individual bean doses into little test tubes and just want to fill a hopper, put your portafilter against the fork, and have exactly 18.0 grams dispensed by a digital timer in 9 seconds, the Specialita is Italian domestic espresso royalty.",
+      "source_url": "https://clivecoffee.com/products/eureka-mignon-specialita-espresso-grinder",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "clive_coffee", "name": "Clive Coffee", "url": "https://clivecoffee.com/products/eureka-mignon-specialita-espresso-grinder", "in_stock": true },
+        { "retailer_id": "seattle_coffee_gear", "name": "Seattle Coffee Gear", "url": "https://seattlecoffeegear.com/products/eureka-mignon-specialita-espresso-grinder", "in_stock": true }
+      ]
+    },
+    {
+      "id": "mazzer-philos",
+      "name": "Mazzer Philos",
+      "brand": "Mazzer",
+      "price": 995,
+      "type": "electric_single_dose",
+      "burr_type": "flat",
+      "burr_size_mm": 64,
+      "is_stepless": true,
+      "retention_grams": 0.1,
+      "retention_level": "near_zero",
+      "footprint": "medium",
+      "workflow_complexity": 2,
+      "espresso_capability": 5,
+      "bean_switching_friendliness": 5,
+      "noise_level": "quiet",
+      "best_roast_alignment": ["light", "medium", "dark"],
+      "pros": [
+        "Commercial cafe legend Mazzer's first dedicated zero-retention home single-doser",
+        "Factory choice of I189D (body/blend) or I200D (clarity/light roast) 64mm burrs",
+        "Rear stepped/stepless conversion switch and indestructible CNC construction"
+      ],
+      "cons": [
+        "Heavy 28-lb industrial weight",
+        "$1,000 price point puts it in premium territory"
+      ],
+      "best_for": ["Endgame 64mm single dosing", "Enthusiasts wanting commercial Mazzer engineering at home"],
+      "not_for": ["Strict budgets"],
+      "my_take": "Mazzer is the brand sitting on the counter of half the cafes in Italy. The Philos is their response to the single-dose revolution. The tolerances, fit, and finish make standard consumer grinders feel like plastic toys. A true heirloom machine.",
+      "source_url": "https://www.mazzer.com/en/product/philos/",
+      "last_verified": "2026-09-04",
+      "verification_status": "verified",
+      "retailers": [
+        { "retailer_id": "clive_coffee", "name": "Clive Coffee", "url": "https://clivecoffee.com/products/mazzer-philos-single-dose-coffee-grinder", "in_stock": true },
+        { "retailer_id": "direct", "name": "Mazzer Official", "url": "https://www.mazzer.com/en/product/philos/", "in_stock": true }
+      ]
+    }
+  ]
+}
+

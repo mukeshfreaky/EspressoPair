@@ -1,0 +1,56 @@
+{
+  "retailers": [
+    {
+      "id": "clive_coffee",
+      "name": "Clive Coffee",
+      "base_url": "https://clivecoffee.com",
+      "affiliate_network": "UpPromote",
+      "commission_rate": "5%",
+      "cookie_days": 30,
+      "tag": "espressopair",
+      "enabled": true
+    },
+    {
+      "id": "seattle_coffee_gear",
+      "name": "Seattle Coffee Gear",
+      "base_url": "https://seattlecoffeegear.com",
+      "affiliate_network": "Impact",
+      "commission_rate": "4-9%",
+      "cookie_days": 30,
+      "tag": "espressopair",
+      "enabled": true
+    },
+    {
+      "id": "espresso_outlet",
+      "name": "Espresso Outlet",
+      "base_url": "https://www.espressooutlet.net",
+      "affiliate_network": "GoAffPro",
+      "commission_rate": "5%",
+      "cookie_days": 30,
+      "tag": "espressopair",
+      "enabled": true
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "base_url": "https://www.amazon.com",
+      "affiliate_network": "Amazon Associates",
+      "commission_rate": "4.5%",
+      "cookie_days": 1,
+      "tag": "espressopair-20",
+      "enabled": true
+    },
+    {
+      "id": "direct",
+      "name": "Direct Manufacturer",
+      "base_url": "",
+      "affiliate_network": "None",
+      "commission_rate": "0%",
+      "cookie_days": 0,
+      "tag": "",
+      "enabled": true
+    }
+  ],
+  "disclosure_text": "Transparency note: When you purchase gear through some links on EspressoPair, I may earn a small affiliate commission from retailers like Clive Coffee, Seattle Coffee Gear, or Amazon at no extra cost to you. This pays for coffee beans and server hosting. Gear recommendations are strictly deterministic and never influenced by commercial relationships."
+}
+

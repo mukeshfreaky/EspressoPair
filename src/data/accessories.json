@@ -1,0 +1,66 @@
+{
+  "essential": [
+    {
+      "id": "digital-scale",
+      "name": "0.1g Digital Coffee Scale with Timer",
+      "price": 16,
+      "category": "essential",
+      "why_needed": "Espresso recipe ratios (e.g. 18g coffee in, 36g espresso out in 28s) require 0.1g precision. A standard kitchen scale that only reads 1g jumps is too coarse to diagnose bad shots.",
+      "search_query": "0.1g espresso scale with timer"
+    },
+    {
+      "id": "wdt-tool",
+      "name": "WDT Distribution Tool (0.35mm needles)",
+      "price": 12,
+      "category": "essential",
+      "why_needed": "Fine espresso grounds clump naturally as they exit the grinder. Whisking them with thin 0.35mm acupuncture needles breaks clumps and helps prevent fast, sour water channeling through the puck.",
+      "search_query": "WDT espresso needle distribution tool"
+    },
+    {
+      "id": "spring-tamper",
+      "name": "Self-Leveling Calibrated Spring Tamper",
+      "price": 28,
+      "category": "essential",
+      "why_needed": "The most common beginner mistake is tamping slightly crooked (unlevel), which forces water down one side. A self-leveling spring tamper sits flush on the basket rim every single time.",
+      "search_query": "calibrated self leveling espresso tamper"
+    },
+    {
+      "id": "milk-pitcher",
+      "name": "12oz / 350ml Stainless Milk Steaming Pitcher",
+      "price": 14,
+      "category": "essential",
+      "why_needed": "Essential if you drink lattes, flat whites, or cappuccinos. The tapered spout lets you create the vortex needed for glossy microfoam and poured latte art.",
+      "search_query": "espresso milk frothing pitcher 350ml"
+    }
+  ],
+  "optional_later": [
+    {
+      "id": "bluetooth-scale",
+      "name": "$220 Bluetooth Smart Flow Rate Scale (Acaia Lunar)",
+      "price": 220,
+      "category": "optional_later",
+      "why_needed": "Plots live flow-rate curves on your phone.",
+      "skip_reason": "A $16 kitchen scale pulls the exact same delicious shot. Save this $200 for 10 bags of freshly roasted specialty coffee.",
+      "search_query": "acaia lunar scale"
+    },
+    {
+      "id": "spin-wedge-leveler",
+      "name": "$150 Spin Wedge Distribution Tool",
+      "price": 150,
+      "category": "optional_later",
+      "why_needed": "Spins on top of the grounds to create a flat surface.",
+      "skip_reason": "Studies by Barista Hustle and Lance Hedrick proved these wedge tools only compress the very top 2mm of grounds while leaving deep clumps intact. A $12 WDT needle tool performs vastly better.",
+      "search_query": "espresso wedge distributor tool"
+    },
+    {
+      "id": "custom-wood-knobs",
+      "name": "$180 Walnut Steam Knobs & Portafilter Handles",
+      "price": 180,
+      "category": "optional_later",
+      "why_needed": "Pure kitchen countertop aesthetics.",
+      "skip_reason": "Looks gorgeous, but changes zero percent of how your espresso tastes. Buy it as a celebration gift after you dial in your first 100 shots.",
+      "search_query": "custom walnut espresso machine accents"
+    }
+  ]
+}
+
