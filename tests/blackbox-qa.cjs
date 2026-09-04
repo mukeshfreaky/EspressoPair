@@ -214,8 +214,9 @@ async function runBlackBoxQA() {
         const cards = document.querySelectorAll('.grid.grid-cols-1.md\\\\:grid-cols-2 h3');
         const machine = cards[0]?.innerText || '';
         const grinder = cards[1]?.innerText || '';
-        const totalText = document.querySelector('.text-crema')?.innerText || '';
-        const remainingText = document.querySelector('.text-crema')?.parentElement?.innerText || '';
+        const totalContainer = document.querySelector('.pt-3 .text-crema');
+        const totalText = totalContainer?.innerText || '';
+        const remainingText = totalContainer?.parentElement?.innerText || '';
         const unspentBanner = document.querySelector('.bg-emerald-50\\\\/70 p')?.innerText || null;
         const noSetupNotice = document.querySelector('.bg-amber-50\\\\/90')?.innerText || null;
         const spendLess = document.querySelectorAll('.grid-cols-1.sm\\\\:grid-cols-2 h4')[0]?.innerText || null;

@@ -21,5 +21,10 @@ export function trackEvent(event: AnalyticsEvent, payload?: EventPayload) {
   if (typeof window !== 'undefined' && (window as unknown as { plausible?: (name: string, opts?: unknown) => void }).plausible) {
     (window as unknown as { plausible: (name: string, opts?: unknown) => void }).plausible(event, { props: payload });
   }
+
+  // Google Analytics gtag dispatch
+  if (typeof window !== 'undefined' && typeof (window as unknown as { gtag?: Function }).gtag === 'function') {
+    (window as unknown as { gtag: Function }).gtag('event', event, payload);
+  }
 }
 
