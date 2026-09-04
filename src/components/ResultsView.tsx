@@ -134,7 +134,7 @@ export const ResultsView: React.FC<ResultsViewProps> = ({
               <div>
                 <span className="text-[11px] font-bold text-coffee-500 uppercase tracking-wider block">Espresso Machine</span>
                 <h3 className="font-serif text-xl font-bold text-coffee-950 leading-tight">
-                  {activePair.machine.brand} {activePair.machine.name}
+                  {activePair.machine.name}
                 </h3>
               </div>
               <span className="font-serif text-xl font-bold text-coffee-950 bg-coffee-50 px-2.5 py-1 rounded border border-coffee-200/60">
@@ -200,7 +200,7 @@ export const ResultsView: React.FC<ResultsViewProps> = ({
               <div>
                 <span className="text-[11px] font-bold text-coffee-500 uppercase tracking-wider block">Espresso Grinder</span>
                 <h3 className="font-serif text-xl font-bold text-coffee-950 leading-tight">
-                  {activePair.grinder.brand} {activePair.grinder.name}
+                  {activePair.grinder.name}
                 </h3>
               </div>
               <span className="font-serif text-xl font-bold text-coffee-950 bg-coffee-50 px-2.5 py-1 rounded border border-coffee-200/60">
@@ -318,12 +318,12 @@ export const ResultsView: React.FC<ResultsViewProps> = ({
 
         <div className="bg-white rounded-lg border border-coffee-200 p-4 space-y-2.5 text-sm">
           <div className="flex justify-between items-center text-coffee-700">
-            <span>{activePair.machine.brand} {activePair.machine.name}</span>
+            <span>{activePair.machine.name}</span>
             <span className="font-medium">${activePair.machine.price}</span>
           </div>
 
           <div className="flex justify-between items-center text-coffee-700">
-            <span>{activePair.grinder.brand} {activePair.grinder.name}</span>
+            <span>{activePair.grinder.name}</span>
             <span className="font-medium">${activePair.grinder.price}</span>
           </div>
 

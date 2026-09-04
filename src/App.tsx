@@ -88,6 +88,10 @@ export function App() {
     };
 
     parseUrlState();
+    window.addEventListener('hashchange', parseUrlState);
+    return () => {
+      window.removeEventListener('hashchange', parseUrlState);
+    };
   }, []);
 
   const handleStartQuiz = () => {
